@@ -25,11 +25,13 @@ https://webcalculatorbyjs.netlify.app/
 
 ## 📂 Project Structure
 
+```
 calculator/
 │── index.html
 │── style.css
 │── script.js
 │── fav icon.png
+```
 
 ## 📚 What I Learned
 
