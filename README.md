@@ -1,2 +1,42 @@
-# Calculator
+# 🧮 Calculator
+
 A simple calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations with a clean user interface.
+
+## 🚀 Features
+
+- Addition, Subtraction, Multiplication, Division
+- Responsive design
+- User-friendly interface
+- Real-time input and result display
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## 📸 Screenshot
+
+<img width="1918" height="858" alt="image" src="https://github.com/user-attachments/assets/d5098e3a-08c5-44b0-b1d0-78fb28fa4e91" />
+
+## 🌐 Live Demo
+
+[Click here to view](https://your-username.github.io/calculator/)
+
+## 📂 Project Structure
+
+calculator/
+│── index.html
+│── style.css
+│── script.js
+│── fav icon.png
+
+## 📌 Future Improvements
+
+- Calculation history
+- Advanced operations
+
+## 👤 Author
+
+- Krishna
+- GitHub: https://github.com/Krishna-2013
