@@ -21,7 +21,7 @@ A simple calculator built using HTML, CSS, and JavaScript. It performs basic ari
 
 ## 🌐 Live Demo
 
-[Click here to view](https://your-username.github.io/calculator/)
+https://webcalculatorbyjs.netlify.app/
 
 ## 📂 Project Structure
 
@@ -30,6 +30,14 @@ calculator/
 │── style.css
 │── script.js
 │── fav icon.png
+
+## 📚 What I Learned
+
+- Handling user input with JavaScript  
+- DOM manipulation and event handling  
+- Managing calculation logic  
+- Improving UI with CSS  
+- Debugging errors in JavaScript  
 
 ## 📌 Future Improvements
 
