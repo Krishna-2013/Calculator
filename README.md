@@ -21,7 +21,7 @@ A simple calculator built using HTML, CSS, and JavaScript. It performs basic ari
 
 ## 🌐 Live Demo
 
-https://webcalculatorbyjs.netlify.app/
+https://krishna-2013.github.io/Calculator/
 
 ## 📂 Project Structure
 
