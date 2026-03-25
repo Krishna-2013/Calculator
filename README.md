@@ -44,6 +44,10 @@ calculator/
 ## 📌 Future Improvements
 
 - Calculation history
+
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
 - Advanced operations
 
 ## 👤 Author
